@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",
-"Build":"npm run build",
+    "Build":"npm run build"
   },
   "keywords": [
     "start"
